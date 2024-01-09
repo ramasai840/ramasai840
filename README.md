@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋, I'm Ram
 
 <!--
 **ramasai840/ramasai840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 
 
 ## About Me :
-🔭 Teaching Assistant at [UMBC](https://umbc.edu/).  
-📚 **Specialization**: Natural Language Processing, Generative AI, Machine Learning, Site Reliability Engineering
-🔭 Teaching Assistant at [UMBC](https://umbc.edu/)  
-🌱 I'm currently learning DBMS (SQL n NoSQL), recommendation systems (Contextual Recommendation Systems, User Engagement Analysis).
-👥 Wanna collaborate on Research? ✉️ [ramasam1@umbc.edu](mailto:ramasam1@umbc.edu) | [ramasai840@gmail.com](mailto:ramasai840@gmail.com).
-⚡ Fun fact: Whenever I am exhausted or burned out, I solve problems on 
+- 🔭 Teaching Assistant at [UMBC](https://umbc.edu/).  
+- 📚 **Specialization**: Natural Language Processing, Generative AI, Machine Learning, Site Reliability Engineering
+- 🌱 **Learning**: DBMS (SQL & NoSQL), Contextual Recommendation Systems, User Engagement Analysis.
+- 👥 Wanna collaborate on Research? ✉️ [ramasam1@umbc.edu](mailto:ramasam1@umbc.edu) | [ramasai840@gmail.com](mailto:ramasai840@gmail.com).
+- ⚡ Fun Fact: To recharge during burnout, I immerse myself into the latest research blogs or experiment with new culinary creations in my kitchen.
 
 
 ### 🌐 Socials
