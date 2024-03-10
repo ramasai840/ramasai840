@@ -76,6 +76,5 @@ Here are some ideas to get you started:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=plastic&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=plastic&logo=ansible&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=plastic&logo=sql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) 
