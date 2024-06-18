@@ -78,3 +78,8 @@ Here are some ideas to get you started:
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) 
+
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ramasai840/ramasai840/output/github-contribution-grid-snake-dark.svg" />
+</div>
